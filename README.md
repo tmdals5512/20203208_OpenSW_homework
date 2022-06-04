@@ -86,7 +86,12 @@
  
  [출처](https://shaeod.tistory.com/968 "jobs")
  
- kill
+ kill : 프로세스에 특정한 신호를 보낼때 사용, 일반적으로 종료 되지 않는 프로세스를 종료시킬때 사용
+ 
+ 사용법 : kill [옵션] [PID]
+ 
+ ![kill1](https://user-images.githubusercontent.com/80256817/172020867-2de6c201-1819-4b4a-9181-d42769c09b3c.png)
+ ![kill2](https://user-images.githubusercontent.com/80256817/172020884-95fef38d-13c1-4619-afcd-f2e8a4372aef.png)
 
 ---
 2) vim 에디터 매크로
